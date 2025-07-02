@@ -1,2 +1,6 @@
-data/
+data/data/*.csv
+*.dvc
+__pycache__/
+*.ipynb_checkpoints/
 /MachineLearningRating_v3.txt
+data/
